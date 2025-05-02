@@ -1,7 +1,7 @@
 <parkingLot>
     <status>
-        <occupiedSpots>45</occupiedSpots>
-        <availableSpots>55</availableSpots>
+        <occupiedSpots>11</occupiedSpots>
+        <availableSpots>25</availableSpots>
     </status>
     <capacity>100</capacity>
 </parkingLot>
